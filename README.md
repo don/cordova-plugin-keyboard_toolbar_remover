@@ -1,2 +1,1 @@
-cordova-plugin-keyboard_toolbar_remover
-=======================================
+Repository moved to https://github.com/don/KeyboardToolbarRemover
